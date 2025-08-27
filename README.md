@@ -37,13 +37,18 @@ Here are the technologies and tools I work with:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Shaikh Asif's GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=asifshaikh15706&show_icons=true&theme=radical" alt="Shaikh Asif's GitHub Stats" /> 
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifshaikh15706&theme=radical" alt="GitHub Streak" />
 </p>
 
----
+...
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=asifshaikh15706&label=Profile%20Views&color=0e75b6&style=flat" alt="asifshaikh15706" /> 
+</p>
+
+  
 ### 🤝 Let's Connect!
 
 I'm always open to chatting about technology, collaboration on projects, or discussing the latest game or movie!
